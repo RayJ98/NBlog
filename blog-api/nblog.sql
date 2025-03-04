@@ -16,7 +16,7 @@ CREATE TABLE `about`  (
 -- ----------------------------
 -- Records of about
 -- ----------------------------
-INSERT INTO `about` VALUES (1, 'title', '标题', '关于帅气的 Naccl');
+INSERT INTO `about` VALUES (1, 'title', '标题', '关于帅气的 RayJ');
 INSERT INTO `about` VALUES (2, 'musicId', '网易云歌曲ID', '423015580');
 INSERT INTO `about` VALUES (3, 'content', '正文Markdown', '');
 INSERT INTO `about` VALUES (4, 'commentEnabled', '评论开关', 'true');
@@ -244,11 +244,11 @@ CREATE TABLE `site_setting`  (
 -- ----------------------------
 -- Records of site_setting
 -- ----------------------------
-INSERT INTO `site_setting` VALUES (1, 'blogName', '博客名称', 'Naccl\'s Blog', 1);
-INSERT INTO `site_setting` VALUES (2, 'webTitleSuffix', '网页标题后缀', ' - Naccl\'s Blog', 1);
+INSERT INTO `site_setting` VALUES (1, 'blogName', '博客名称', 'RayJ\'s Blog', 1);
+INSERT INTO `site_setting` VALUES (2, 'webTitleSuffix', '网页标题后缀', ' - RayJ\'s Blog', 1);
 INSERT INTO `site_setting` VALUES (3, 'footerImgTitle', '页脚图片标题', '手机看本站', 1);
 INSERT INTO `site_setting` VALUES (4, 'footerImgUrl', '页脚图片路径', '/img/qr.png', 1);
-INSERT INTO `site_setting` VALUES (5, 'copyright', 'Copyright', '{\"title\":\"Copyright © 2019 - 2022\",\"siteName\":\"NACCL\'S BLOG\"}', 1);
+INSERT INTO `site_setting` VALUES (5, 'copyright', 'Copyright', '{\"title\":\"Copyright © 2019 - 2022\",\"siteName\":\"RayJ\'S BLOG\"}', 1);
 INSERT INTO `site_setting` VALUES (6, 'beian', 'ICP备案号', '', 1);
 INSERT INTO `site_setting` VALUES (7, 'reward', '赞赏码', '/img/reward.jpg', 1);
 INSERT INTO `site_setting` VALUES (8, 'commentAdminFlag', '博主评论标识', '咕咕', 1);
